@@ -31,3 +31,8 @@ Use the DICE coefficient to compare the segmentations with the reference data.
 
 - presentation:
   - .pdf and .pptx presentations of the results
+  
+  
+## Inspiration
+
+This repository is the result of a two-evenings Imaging coursework from Oxford's [Health Data Science CDT](https://www.bdi.ox.ac.uk/study/cdt).
