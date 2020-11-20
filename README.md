@@ -28,6 +28,7 @@ Use the DICE coefficient to compare the segmentations with the reference data.
   - papsmear-data-01-manual-thresholding.ipynb
   - papsmear-data-02-otsu-thresholding-with-median-filter.ipynb
   - papsmear-data-02-otsu-thresholding-with-different-filters.ipynb
+  - custom_metrics.py (dice coefficient implementation)
 
 - presentation:
   - .pdf and .pptx presentations of the results
