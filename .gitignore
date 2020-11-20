@@ -9,10 +9,6 @@
 .ipynb_checkpoints/
 
 # exclude all data files (heavy) except for the README.md files
-*/data/*
-!*/data/README.md
+data/*
+!data/README.md
 
-
-# exclude all checkpoint files (heavy) except for the README.md files
-*/checkpoints/*
-!*/checkpoints/README.md
