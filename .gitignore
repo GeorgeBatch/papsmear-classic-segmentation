@@ -1,0 +1,18 @@
+# exclude all .DS_Store files (visuals for Mac OS) 
+*/.DS_Store
+.DS_Store
+
+# exclude annoying pycache and .ipynb_checkpoints/ files so that they do not act as changes for git
+*/__pycache__
+*.pyc
+*.swp
+.ipynb_checkpoints/
+
+# exclude all data files (heavy) except for the README.md files
+*/data/*
+!*/data/README.md
+
+
+# exclude all checkpoint files (heavy) except for the README.md files
+*/checkpoints/*
+!*/checkpoints/README.md
